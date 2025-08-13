@@ -16,7 +16,7 @@ jobs:
           feed_list: "https://plank.co/en/feed/"
           max_post_count: 5
           commit_message: "chore: updated README with latest main blog posts"
-          custom_tags: "MAIN"
+          comment_tag_name: "PLANK"
   
   update-dev-blog:
     name: Update README with DEV blog posts
@@ -28,4 +28,4 @@ jobs:
           feed_list: "https://dev.to/feed/plank"
           max_post_count: 5
           commit_message: "chore: updated README with latest DEV blog posts"
-          custom_tags: "DEV"
+          comment_tag_name: "DEV"
