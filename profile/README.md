@@ -1,7 +1,7 @@
 ## Hi there, we're Plank 👋
 
 <a href="https://plank.co/open-source/learn-more-image">
-    <img src="https://plank.co/open-source/banner" alt="Learn more about our services" />
+    <img src="https://plank.co/open-source/banner" alt="Toughtful and elegant websites made by dedicated digital craftspeople" />
 </a>
 
 &nbsp;
