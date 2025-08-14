@@ -1,0 +1,31 @@
+name: Update Org Profile README with Latest Blog Posts
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # every day at 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-main-blog:
+    name: Update README with main blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://plank.co/en/feed/"
+          max_post_count: 5
+          commit_message: "chore: updated README with latest main blog posts"
+          comment_tag_name: "PLANK"
+  
+  update-dev-blog:
+    name: Update README with DEV blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/plank"
+          max_post_count: 5
+          commit_message: "chore: updated README with latest DEV blog posts"
+          comment_tag_name: "DEV"
