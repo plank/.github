@@ -17,3 +17,4 @@ jobs:
           max_post_count: 5
           commit_message: "chore: updated README with latest main blog posts"
           comment_tag_name: "PLANK"
+          readme_path: "profile/README.md"
