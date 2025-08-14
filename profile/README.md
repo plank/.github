@@ -13,4 +13,3 @@ Plank focuses on impactful solutions that deliver engaging experiences to our cl
 ## Latest from our blog
 <!-- PLANK:START -->
 <!-- PLANK:END -->
-*
