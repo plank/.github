@@ -16,5 +16,5 @@ Plank focuses on impactful solutions that deliver engaging experiences to our cl
 - [Human-Centric AI: Plank’s Approach to AI in Web Design and Development](https://plank.co/en/blog/human-centric-ai-web-design-development/)
 - [WordPress CMS for &lpar;Not&rpar; Dummies – Top Ten Timesaving Hints and Tips](https://plank.co/en/blog/wordpress-cms-for-not-dummies-top-ten-timesaving-hints-and-tips/)
 - [2 Types of Digital Storytelling Websites: From Flexible Templates to Immersive Experiences](https://plank.co/en/blog/2-types-of-digital-storytelling-websites-from-flexible-templates-to-immersive-experiences/)
-- [How to Create a Digital Storytelling Website](https://plank.co/en/blog/how-to-create-a-digital-storytelling-website/)
+- [AODA Website Compliance: A checklist and guide](https://plank.co/en/blog/aoda-website-compliance-a-checklist-and-guide/)
 <!-- PLANK:END -->
