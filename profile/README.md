@@ -12,9 +12,9 @@ Plank focuses on impactful solutions that deliver engaging experiences to our cl
 
 ## Latest from our blog
 <!-- PLANK:START -->
+- [Schema Markup: What is It &amp; How Will It Evolve With AI?](https://plank.co/en/blog/what-is-schema-markup/)
 - [The Rise of the User Agent Interface &lpar;UAI&rpar;](https://plank.co/en/blog/designing-user-agent-interfaces/)
 - [Your Website Matters More in the Age of AI](https://plank.co/en/blog/website-matters-in-ai-age/)
 - [Human-Centric AI: Plank’s Approach to AI in Web Design and Development](https://plank.co/en/blog/human-centric-ai-web-design-development/)
 - [WordPress CMS for &lpar;Not&rpar; Dummies – Top Ten Timesaving Hints and Tips](https://plank.co/en/blog/wordpress-cms-for-not-dummies-top-ten-timesaving-hints-and-tips/)
-- [2 Types of Digital Storytelling Websites: From Flexible Templates to Immersive Experiences](https://plank.co/en/blog/2-types-of-digital-storytelling-websites-from-flexible-templates-to-immersive-experiences/)
 <!-- PLANK:END -->
