@@ -12,9 +12,9 @@ Plank focuses on impactful solutions that deliver engaging experiences to our cl
 
 ## Latest from our blog
 <!-- PLANK:START -->
+- [9 Ways to Reduce Your Digital Pollution](https://plank.co/en/blog/9-ways-to-reduce-your-digital-pollution/)
 - [The Power of Impact Storytelling for B Corps](https://plank.co/en/blog/the-power-of-impact-storytelling-for-b-corps/)
 - [Web Design &amp; Development Trends in 2026 | Agency Insights](https://plank.co/en/blog/web-design-development-trends/)
 - [The 5 Core Elements of Responsive Web Design &lpar;2025&rpar;](https://plank.co/en/blog/5-elements-of-responsive-web-design/)
 - [Schema Markup: What is It &amp; How Will It Evolve With AI?](https://plank.co/en/blog/what-is-schema-markup/)
-- [The Rise of the User Agent Interface &lpar;UAI&rpar;](https://plank.co/en/blog/designing-user-agent-interfaces/)
 <!-- PLANK:END -->
