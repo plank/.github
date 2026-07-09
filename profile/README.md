@@ -12,9 +12,9 @@ Plank focuses on impactful solutions that deliver engaging experiences to our cl
 
 ## Latest from our blog
 <!-- PLANK:START -->
+- [Three Ways Content Strategy Can Help Grow Your Business](https://plank.co/en/blog/three-ways-content-strategy-can-help-grow-your-business/)
 - [5 Ways Arts Organizations Can Increase Online Ticket Sales](https://plank.co/en/blog/5-ways-to-increase-online-ticket-sales/)
 - [9 Ways to Reduce Your Digital Pollution](https://plank.co/en/blog/9-ways-to-reduce-your-digital-pollution/)
 - [The Power of Impact Storytelling for B Corps](https://plank.co/en/blog/the-power-of-impact-storytelling-for-b-corps/)
 - [Web Design &amp; Development Trends in 2026 | Agency Insights](https://plank.co/en/blog/web-design-development-trends/)
-- [The 5 Core Elements of Responsive Web Design &lpar;2025&rpar;](https://plank.co/en/blog/5-elements-of-responsive-web-design/)
 <!-- PLANK:END -->
