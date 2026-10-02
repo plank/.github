@@ -12,9 +12,9 @@ Plank focuses on impactful solutions that deliver engaging experiences to our cl
 
 ## Latest from our blog
 <!-- PLANK:START -->
+- [Want to Show Up in AI Overviews? Start With These 5 Steps](https://plank.co/en/blog/want-to-show-up-in-ai-overviews-start-with-these-5-steps/)
 - [Your Website Matters More in the Age of AI](https://plank.co/en/blog/website-matters-in-ai-age/)
 - [Three Ways Content Strategy Can Help Grow Your Business](https://plank.co/en/blog/three-ways-content-strategy-can-help-grow-your-business/)
 - [5 Ways Arts Organizations Can Increase Online Ticket Sales](https://plank.co/en/blog/5-ways-to-increase-online-ticket-sales/)
 - [9 Ways to Reduce Your Digital Pollution](https://plank.co/en/blog/9-ways-to-reduce-your-digital-pollution/)
-- [The Power of Impact Storytelling for B Corps](https://plank.co/en/blog/the-power-of-impact-storytelling-for-b-corps/)
 <!-- PLANK:END -->
